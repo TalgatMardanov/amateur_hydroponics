@@ -1,0 +1,7 @@
+"# Amateur Hydroponics Control Sysytem" 
+"An open-source automated system for home hydroponics based on ESP32." 
+"" 
+"## Features" 
+"- pH monitoring and automatic correction" 
+"- EC/TDS measurement" 
+"- Water temperature control" 
